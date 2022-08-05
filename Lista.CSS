@@ -1,0 +1,10 @@
+.Fcenter {
+    justify-content: center;
+    margin-left: 400px  ;
+     margin-right: 400px;
+}
+
+.esqdir {
+    display: flex;
+    justify-content: center;
+}

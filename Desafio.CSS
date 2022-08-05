@@ -1,0 +1,21 @@
+.esqdir {
+    display: flex;
+    justify-content: center;
+}
+
+.space {
+    margin-right: 520px;
+}
+
+.mspace {
+    margin-right: 20px;
+}
+
+.center {
+    align-items: center;
+
+}
+.background {
+    background-size: cover;
+    background-image: url(https://images5.alphacoders.com/102/1024198.jpg)
+}
